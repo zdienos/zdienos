@@ -14,10 +14,6 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<!-- <a href="https://mhamzadev.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a> -->
-
 <a href="https://www.facebook.com/zdienos/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
@@ -60,6 +56,14 @@
 - [Install MariaDB Versi Tertentu di MacOS](https://blog.zdienos.com/2021/01/install-mariadb-versi-tertentu-di-macos.html)
 <!-- BLOG:END -->
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <!-- ### Languages & Tools
 
