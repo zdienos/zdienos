@@ -27,9 +27,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 <!-- ### Languages & Tools
 
