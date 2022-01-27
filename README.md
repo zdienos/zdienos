@@ -2,7 +2,7 @@
 <br>
 
 ### A Freelancer, Developer & Writer
-<img align="right" alt="GIF" src="code.gif" width="400" />
+<img align="right" alt="GIF" src="code.gif" width="400" style="margin-top: -95px;"/>
 
 #### Talking about my personal stuff:
 
