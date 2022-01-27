@@ -100,6 +100,7 @@
 Open Source Contributor from <b>Indonesia<b> 💚 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=zdienos.zdienos)
+[![wakatime](https://wakatime.com/badge/user/56a14358-4713-4015-a193-0cb47f9d97f4.svg)](https://wakatime.com/@56a14358-4713-4015-a193-0cb47f9d97f4)
 
 
 
