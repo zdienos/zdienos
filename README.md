@@ -1,8 +1,10 @@
-### Hey there, I'm  zed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hey there, I'm  zed
 <br>
+<a href="https://app.daily.dev/zdienos"><img align="right" src="https://github.com/zdienos/zdienos/blogb/main/devcard.svg" width="290px" alt="zdienos's Dev Card"/></a>
 
 ### A Freelancer, Developer & Writer
-<img align="right" alt="GIF" src="code.gif" width="400" style="margin-top: -95px;"/>
+<!-- <img align="right" alt="GIF" src="code.gif" width="400" style="margin-top: -95px;"/> -->
+
 
 #### Talking about my personal stuff:
 
