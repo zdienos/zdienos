@@ -1,7 +1,6 @@
 ### Hey there, I'm  zed
 <br>
-<a href="https://app.daily.dev/zdienos"><img align="right" src="https://github.com/zdienos/zdienos/blob/main/devcard.svg" width="290px" alt="zdienos's Dev Card"/></a>
-<a href="https://app.daily.dev/zdienos"><img src="https://github.com/zdienos/zdienos/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/zdienos"><img align="right" src="https://github.com/zdienos/zdienos/blob/main/devcard.svg" width="280px" alt="zdienos's Dev Card"/></a>
 
 
 ### A Freelancer, Developer & Writer
