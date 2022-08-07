@@ -2,7 +2,7 @@
 <br>
 <a href="https://app.daily.dev/zdienos"><img align="right" src="https://github.com/zdienos/zdienos/blob/main/devcard.svg" width="280px" alt="zdienos's Dev Card"/></a>
 
-### A Freelancer, Full Stack Developer & System Administrator
+### A Freelancer, Full Snack Developer & System Administrator
 <!-- <img align="right" alt="GIF" src="code.gif" width="400" style="margin-top: -95px;"/> -->
 
 #### Talking about my personal stuff:
@@ -53,16 +53,19 @@
 
 <details>
 <summary><b>📝 My Stats</b></summary>
-![](https://github-readme-stats.vercel.app/api?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zdienos&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-![](https://visitor-badge.glitch.me/badge?page_id=zdienos.zdienos)
-[![wakatime](https://wakatime.com/badge/user/56a14358-4713-4015-a193-0cb47f9d97f4.svg)](https://wakatime.com/@56a14358-4713-4015-a193-0cb47f9d97f4)
+![githubstat](https://github-readme-stats.vercel.app/api?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false) <br/>
+![githubstat](https://github-readme-streak-stats.herokuapp.com/?user=zdienos&theme=flag-india&hide_border=false) <br/>
+![githubstat](https://github-readme-stats.vercel.app/api/top-langs/?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+![sss](https://visitor-badge.glitch.me/badge?page_id=zdienos.zdienos) <br/>
+![wakatime](https://wakatime.com/badge/user/56a14358-4713-4015-a193-0cb47f9d97f4.svg) <br/>
 </details>
+
 <details>
 <summary><b>💰 Support Me??</b></summary>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/zdienos) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/zdienospay)
+
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) <br/>
 </details>
 
 Open Source Contributor from <b>Indonesia<b> 💚
