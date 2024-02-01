@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/MariaDB-282C34?logo=mariadb&logoColor=61DAFB" alt="MariaDB Logo" title="MariaDB" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="iTerm" title="MariaDB" height="25" />
+<img src="https://img.shields.io/badge/iTerm2-282C34?logo=iterm2&logoColor=white" alt="iTerm" title="MariaDB" height="25" />
 <br>
 
 #### 📖 Currently learning / improving on
