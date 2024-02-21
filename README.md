@@ -61,13 +61,12 @@
 ![wakatime](https://wakatime.com/badge/user/56a14358-4713-4015-a193-0cb47f9d97f4.svg) <br/>
 </details>
 
-<details>
-<summary><b>💰 Support Me??</b></summary>
-
-![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
+<b>💰 Support Me??</b><br>
+[![BuyMeACoffee]][ShieldCoffee]
 ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) <br/>
-</details>
 
 Open Source Contributor from <b>Indonesia<b> 💚
 
 [profile]: https://zdienos.com
+[BuyMeACoffee]: https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black
+[ShieldCoffee]: https://ko-fi/zdienos
