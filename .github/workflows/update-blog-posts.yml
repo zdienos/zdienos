@@ -1,0 +1,25 @@
+name: Update Blog Posts
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.zdienos.com/feeds/posts/default?alt=rss&max-results=5"
+          comment_tag_name: "BLOG"
+          max_post_count: 5
+          remove_duplicates: true
+          commit_message: "auto: update latest blog posts"
+          date_format: "mmm dd, yyyy"
+          template: "$newline- [$title]($url)"
