@@ -16,10 +16,8 @@ jobs:
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://blog.zdienos.com/feeds/posts/default?alt=rss&max-results=5"
+          feed_list: "https://blog.zdienos.com/feeds/posts/default?alt=rss"
           comment_tag_name: "BLOG"
           max_post_count: 5
           remove_duplicates: true
           commit_message: "auto: update latest blog posts"
-          date_format: "mmm dd, yyyy"
-          template: "$newline- [$title]($url)"
