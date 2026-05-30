@@ -18,10 +18,11 @@
 
 #### ✍ Latest Blog Posts
 <!-- BLOG:START -->
+- [Auto Update Blog Posts di GitHub Profile](https://blog.zdienos.com/2026/05/auto-update-blog-posts-di-github-profile.html)
+- [Context Engineering vs Prompt Engineering: Apa Bedanya?](https://blog.zdienos.com/2026/05/context-engineering-vs-prompt-engineering.html)
 - [Setup Server CentOS 7 dengan XAMPP untuk Backup Database](https://blog.zdienos.com/2026/05/setup-server-centos-7-dengan-xampp.html)
 - [Membuat Tampilan Aplikasi di Wine Lebih Cantik](https://blog.zdienos.com/2026/05/membuat-tampilan-aplikasi-di-wine-lebih-cantik.html)
 - [Setup SSL Certificate dan Custom Domain di Laragon](https://blog.zdienos.com/2026/05/setup-ssl-certificate-custom-domain-laragon.html)
-- [Cara Cepat Mendapatkan Kurs USD dari Website Bank Indonesia dengan PHP](https://blog.zdienos.com/2026/05/cara-cepat-mendapatkan-kurs-usd-dari-bank-indonesia.html)
 <!-- BLOG:END -->
 
 #### 🛠 Stacks
