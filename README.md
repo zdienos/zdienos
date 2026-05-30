@@ -18,12 +18,11 @@
 
 #### ✍ Latest Blog Posts
 <!-- BLOG:START -->
-- [Context Engineering vs Prompt Engineering: Apa Bedanya?](https://blog.zdienos.com/2026/05/context-engineering-vs-prompt-engineering.html)
 - [Setup Server CentOS 7 dengan XAMPP untuk Backup Database](https://blog.zdienos.com/2026/05/setup-server-centos-7-dengan-xampp.html)
 - [Membuat Tampilan Aplikasi di Wine Lebih Cantik](https://blog.zdienos.com/2026/05/membuat-tampilan-aplikasi-di-wine-lebih-cantik.html)
 - [Setup SSL Certificate dan Custom Domain di Laragon](https://blog.zdienos.com/2026/05/setup-ssl-certificate-custom-domain-laragon.html)
 - [Cara Cepat Mendapatkan Kurs USD dari Website Bank Indonesia dengan PHP](https://blog.zdienos.com/2026/05/cara-cepat-mendapatkan-kurs-usd-dari-bank-indonesia.html)
-<!-- BLOG:END -->
+- [Cek Informasi RAM di Laptop Linux Ubuntu](https://blog.zdienos.com/2023/10/cek-informasi-ram-di-laptop-linux-ubuntu.html)<!-- BLOG:END -->
 
 #### 🛠 Stacks
 <!-- [![My Skills](https://skillicons.dev/icons?i=html,css,js,bash,cloudflare,docker,git,jquery,linux,mysql,ae,ps,php,vscode)](https://skillicons.dev) -->
