@@ -56,9 +56,9 @@
 <details>
 <summary><b>📝 My Stats</b></summary>
 
-![githubstat](https://github-readme-stats.vercel.app/api?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false) <br/>
+![githubstat](https://github-readme-stats-eight.vercel.app/api?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false) <br/>
 ![githubstat](https://github-readme-streak-stats.herokuapp.com/?user=zdienos&theme=flag-india&hide_border=false) <br/>
-![githubstat](https://github-readme-stats.vercel.app/api/top-langs/?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
+![githubstat](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=zdienos&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
 ![sss](https://komarev.com/ghpvc/?username=zdienos&abbreviated=true) <br/>
 ![wakatime](https://wakatime.com/badge/user/56a14358-4713-4015-a193-0cb47f9d97f4.svg) <br/>
 </details>
